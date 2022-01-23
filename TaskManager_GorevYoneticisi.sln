@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1401
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskManager_GorevYoneticisi", "TaskManager_GorevYoneticisi\TaskManager_GorevYoneticisi.csproj", "{75CC417C-3DF8-475D-8C18-27D961279A38}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TaskManagerSetup", "TaskManagerSetup\TaskManagerSetup.vdproj", "{CBC43534-F39C-4A8E-BED6-D24F3E5BBF64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75CC417C-3DF8-475D-8C18-27D961279A38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75CC417C-3DF8-475D-8C18-27D961279A38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75CC417C-3DF8-475D-8C18-27D961279A38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75CC417C-3DF8-475D-8C18-27D961279A38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBC43534-F39C-4A8E-BED6-D24F3E5BBF64}.Debug|Any CPU.ActiveCfg = Debug
+		{CBC43534-F39C-4A8E-BED6-D24F3E5BBF64}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44B31EA8-AD8F-4568-B1E8-73819493A800}
+	EndGlobalSection
+EndGlobal

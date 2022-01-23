@@ -1,0 +1,10 @@
+C:\Users\Monster\source\repos\TaskManager_GorevYoneticisi\TaskManager_GorevYoneticisi\obj\Debug\TaskManager_GorevYoneticisi.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\TaskManager_GorevYoneticisi\TaskManager_GorevYoneticisi\obj\Debug\Task_Manager__Görev_Yöneticisi_.Form1.resources
+C:\Users\Monster\source\repos\TaskManager_GorevYoneticisi\TaskManager_GorevYoneticisi\obj\Debug\TaskManager_GorevYoneticisi.Properties.Resources.resources
+C:\Users\Monster\source\repos\TaskManager_GorevYoneticisi\TaskManager_GorevYoneticisi\obj\Debug\TaskManager_GorevYoneticisi.csproj.GenerateResource.cache
+C:\Users\Monster\source\repos\TaskManager_GorevYoneticisi\TaskManager_GorevYoneticisi\obj\Debug\TaskManager_GorevYoneticisi.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\TaskManager_GorevYoneticisi\TaskManager_GorevYoneticisi\bin\Debug\TaskManager_GorevYoneticisi.exe.config
+C:\Users\Monster\source\repos\TaskManager_GorevYoneticisi\TaskManager_GorevYoneticisi\bin\Debug\TaskManager_GorevYoneticisi.exe
+C:\Users\Monster\source\repos\TaskManager_GorevYoneticisi\TaskManager_GorevYoneticisi\bin\Debug\TaskManager_GorevYoneticisi.pdb
+C:\Users\Monster\source\repos\TaskManager_GorevYoneticisi\TaskManager_GorevYoneticisi\obj\Debug\TaskManager_GorevYoneticisi.exe
+C:\Users\Monster\source\repos\TaskManager_GorevYoneticisi\TaskManager_GorevYoneticisi\obj\Debug\TaskManager_GorevYoneticisi.pdb
